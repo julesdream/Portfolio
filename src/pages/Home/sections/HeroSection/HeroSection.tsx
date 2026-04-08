@@ -79,7 +79,7 @@ const HeroSection: React.FC = () => {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ duration: 1, ease: "easeOut" }}
               >
-                <StyledImg src={Avatar} alt="Matheus Felipetto" />
+                <StyledImg src={avatar} alt="Matheus Felipetto" />
               </motion.div>
             </Box>
           </Grid>
